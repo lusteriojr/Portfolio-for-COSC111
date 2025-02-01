@@ -1,5 +1,5 @@
-# arduino-project
-Compilations of Arduino Projects. Properly compiled for archival and references to Arduino-related projects.
+# arduino-projects
+Compilation of Arduino projects from the first semester of the fourth year.
 
 ---
 
